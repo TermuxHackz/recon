@@ -27,7 +27,7 @@ An automated bash scripts that scans for available open ports on an ipv4 address
 Example: ./recon.sh 127.0.0.1   or bash recon.sh 127.0.0.127
 
 # ScreenShot
-<img src="
+<img src="https://github.com/TermuxHackz/recon/blob/master/Capture.PNG" width="250" height="200"/>
 
 *Be a white hat and thanks to AnonyminHack5 for this wonderful port scanning tool*
 
